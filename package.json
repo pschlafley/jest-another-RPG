@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG game that uses OOP and TDD to create player, enemy, and potion objects for the game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pschlafley/jest-another-RPG.git"
+  },
+  "author": "Peyton Schlafley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pschlafley/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/pschlafley/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.5.0"
+  }
+}
